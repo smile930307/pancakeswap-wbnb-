@@ -1,0 +1,13 @@
+{
+  "provider" : "https://empty-polished-resonance.bsc.quiknode.pro/1f4fbb219455935aa4c9d5066fe50f6e5afcaf53/",
+  "provider_wss" : "wss://empty-polished-resonance.bsc.quiknode.pro/1f4fbb219455935aa4c9d5066fe50f6e5afcaf53/",
+  "address": "0xD16784EeA78454cE6EBb2107770CE769749CA426",
+  "private_key": "f3c7d2fd3c818e2222e7ec1a3a850c7108db155a4bb356b4d85e26b6e3a87413",
+  "new_token_address": "0x83eEF420C54B1B8D6FeF17625ca08e19E3eb1096",
+  "new_token_server": "0x3a2D7dB3b917329F3A65b3618f303D7078b8FC30",
+  "trailing_stop": 10,
+  "slippage": 100,
+  "gas_limit": 500000,
+  "gas_price": 5,
+  "amount" : 0.01
+}
